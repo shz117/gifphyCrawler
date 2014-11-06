@@ -1,0 +1,17 @@
+{
+  "name": "giphyCrawler",
+  "version": "0.0.0",
+  "description": "craw giphy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^0.3.1"
+  },
+  "devDependencies": {
+    "mongoose": "^3.8.18"
+  }
+}
